@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "first commit" );
         System.out.println( "hello git4" );
+        System.out.println( "hello master" );
     }
 }
